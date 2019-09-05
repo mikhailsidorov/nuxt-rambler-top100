@@ -1,0 +1,35 @@
+{
+  "name": "nuxt-rambler-top100",
+  "version": "0.0.1",
+  "description": "Nuxt plugin for Rambler Top-100 service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mikhailsidorov/nuxt-rambler-top100.git"
+  },
+  "keywords": [
+    "nuxt",
+    "rambler",
+    "top100",
+    "top-100"
+  ],
+  "author": "Mikhail Sidorov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikhailsidorov/nuxt-rambler-top100/issues"
+  },
+  "homepage": "https://github.com/mikhailsidorov/nuxt-rambler-top100#readme",
+  "devDependencies": {
+    "babel-eslint": "^10.0.2",
+    "eslint": "^6.0.1",
+    "eslint-config-standard": "^13.0.1",
+    "eslint-plugin-html": "^6.0.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-node": "^9.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.0"
+  }
+}
