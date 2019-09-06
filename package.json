@@ -1,6 +1,6 @@
 {
   "name": "nuxt-rambler-top100",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Nuxt plugin for Rambler Top-100 service",
   "main": "index.js",
   "scripts": {
